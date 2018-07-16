@@ -6,7 +6,7 @@
 
 #### 지원사업
 - KOCCA : http://www.kocca.kr/cop/pims/list.do?menuNo=200828
-- 경기콘텐츠 진흥원(공지사항 -> 사업공고) : http://www.gcon.or.kr
+- 경기콘텐츠 진흥원(공지사항 -> 사업공고) : http://www.gcon.or.kr/archives/category/notice-news/business-notice
 - 경기문화창조허브(프로그램신청 -> 서부메뉴선택) : http://www.ghub.or.kr
 - SBA 콘텐츠지원포털 : http://m.ani.seoul.kr/index.sba
 
