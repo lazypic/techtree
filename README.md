@@ -2,6 +2,7 @@
 
 - 사업자등록신청 : https://www.hometax.go.kr/websquare/websquare.wq?w2xPath=/ui/pp/index_pp.xml&tmIdx=03&tm2lIdx=0306000000&tm3lIdx
 - 고양세무서 : http://j.nts.go.kr/menu/main/main2.asp?tax_code=128
+	- 캐릭터 콘텐츠개발, 소프트웨어개발로 업종 상담받을 것.
 - 캐릭터 이름검색/저작권등록 : https://www.cros.or.kr/main.cc
 - 특허검색 : http://kportal.kipris.or.kr/kportal/search/total_search.do
 - 한국표준산업분류 : http://kssc.kostat.go.kr/ksscNew_web/kssc/common/ClassificationContent.do?gubun=1&strCategoryNameCode=001&categoryMenu=007
