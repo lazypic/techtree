@@ -2,6 +2,7 @@
 
 - 사업자등록신청 : https://www.hometax.go.kr
 - 캐릭터 이름검색/저작권등록 : https://www.cros.or.kr/main.cc
+- 특허검색 : http://kportal.kipris.or.kr/kportal/search/total_search.do
 
 #### 지원사업
 - KOCCA : http://www.kocca.kr/cop/pims/list.do?menuNo=200828
