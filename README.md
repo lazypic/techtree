@@ -4,6 +4,7 @@
 - 고양세무서 : http://j.nts.go.kr/menu/main/main2.asp?tax_code=128
 - 캐릭터 이름검색/저작권등록 : https://www.cros.or.kr/main.cc
 - 특허검색 : http://kportal.kipris.or.kr/kportal/search/total_search.do
+- 한국표준산업분류 : http://kssc.kostat.go.kr/ksscNew_web/kssc/common/ClassificationContent.do?gubun=1&strCategoryNameCode=001&categoryMenu=007
 
 #### 지원사업
 - 고양시여성창업지원센터 : http://www.gywbi.or.kr/main.aspx
