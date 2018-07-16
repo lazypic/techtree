@@ -14,5 +14,45 @@
 - 경기문화창조허브(프로그램신청 -> 서부메뉴선택) : http://www.ghub.or.kr
 - SBA 콘텐츠지원포털 : http://m.ani.seoul.kr/index.sba
 
+## 콘텐츠 퍼블리쉬 API
+
+#### instagram
+- https://www.instagram.com/developer/
+
+#### flickr
+- 비상업적으로만 이용가능
+- https://www.flickr.com/services/api/
+- https://github.com/mncaudill/go-flickr
+
+#### pinterest
+- 중국에서 서비스안됨.
+- https://developers.pinterest.com/docs/getting-started/introduction/
+
+#### twitter
+- https://developer.twitter.com/en/docs.html
+
 #### 온라인 강좌
 - http://kooc.kaist.ac.kr
+
+#### google+
+
+#### google blog
+
+#### kakao
+- https://developers.kakao.com
+ 
+#### kakao plus friend
+
+#### naver blog
+
+#### brunch
+- 아직 API 없음.
+
+#### facebook
+- https://developers.facebook.com/?locale=ko_KR
+
+#### youtube
+- https://developers.google.com/youtube/v3/getting-started?hl=ko
+
+#### vimeo
+- https://developer.vimeo.com
