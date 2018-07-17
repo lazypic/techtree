@@ -7,9 +7,15 @@ $ awless create s3object bucket=lazypic file=./uploadfile.ext
 ```
 
 #### Static Website on S3
-- lazypic의 S3 Static Website주소는 http://dev.lazypic.org 입니다.
+- lazypic의 S3 Static Website주소는 http://lazypic.org 입니다.
 - 해당 S3에 Static web site를 업로드 하는 방법은 아래와 같습니다.
 
 ```bash
-$ awless create s3object bucket=dev.lazypic.org file=./index.html
+$ awless create s3object bucket=lazypic.org file=./index.html
 ```
+
+- images 폴더가 존재할 때 해당폴더에 image.png파일을 생성하는 방법은 아래와 같습니다.
+```bash
+$ awless create s3object bucket=lazypic.org/images/ file=./image.png
+```
+
