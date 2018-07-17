@@ -14,6 +14,9 @@
 - 경기문화창조허브(프로그램신청 -> 서부메뉴선택) : http://www.ghub.or.kr
 - SBA 콘텐츠지원포털 : http://m.ani.seoul.kr/index.sba
 
+## 온라인 강좌
+- KOOC : http://kooc.kaist.ac.kr
+
 ## 콘텐츠 퍼블리쉬 API
 
 #### instagram
@@ -31,8 +34,6 @@
 #### twitter
 - https://developer.twitter.com/en/docs.html
 
-#### 온라인 강좌
-- http://kooc.kaist.ac.kr
 
 #### google+
 
