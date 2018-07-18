@@ -37,6 +37,8 @@
 #### twitter
 - https://developer.twitter.com/en/docs.html
 
+#### google
+- https://developers.google.com/apis-explorer/#p/
 
 #### google+
 
