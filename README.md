@@ -64,3 +64,6 @@
 
 #### vimeo
 - https://developer.vimeo.com
+
+#### mailgun
+- https://documentation.mailgun.com/en/latest/quickstart-sending.html#how-to-start-sending-email
