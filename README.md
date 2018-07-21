@@ -13,6 +13,7 @@
 - 경기콘텐츠 진흥원(공지사항 -> 사업공고) : http://www.gcon.or.kr/archives/category/notice-news/business-notice
 - 경기문화창조허브(프로그램신청 -> 서부메뉴선택) : http://www.ghub.or.kr
 - SBA 콘텐츠지원포털 : http://m.ani.seoul.kr/index.sba
+- [한글 단축키](http://help.hancom.com/hoffice_mac/ko-KR/hwp/index.htm#t=view%2Ftoolbar%2Fshortcut(table).htm)
 
 #### 공모전
 - 산그림 공모전 : http://www.picturebook-illust.com/san_kr/community_02_l.asp?boardno=7
@@ -37,6 +38,9 @@
 #### twitter
 - https://developer.twitter.com/en/docs.html
 
+#### google
+- https://developers.google.com
+- https://developers.google.com/apis-explorer/#p/
 
 #### google+
 
@@ -60,3 +64,6 @@
 
 #### vimeo
 - https://developer.vimeo.com
+
+#### mailgun
+- https://documentation.mailgun.com/en/latest/quickstart-sending.html#how-to-start-sending-email
