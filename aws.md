@@ -19,3 +19,9 @@ $ awless create s3object bucket=lazypic.org file=./index.html
 $ awless create s3object bucket=lazypic.org/images/ file=./image.png
 ```
 
+#### 사용자
+- 사용자 리스트보기
+```
+$ awless ls users
+```
+
