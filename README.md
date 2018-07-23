@@ -21,6 +21,9 @@
 ## 온라인 강좌
 - KOOC : http://kooc.kaist.ac.kr
 
+## 온라인 모임
+- https://www.meetup.com/ko-KR/
+
 ## 콘텐츠 퍼블리쉬 API
 
 #### instagram
