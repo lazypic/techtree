@@ -15,8 +15,16 @@
 - SBA 콘텐츠지원포털 : http://m.ani.seoul.kr/index.sba
 - [한글 단축키](http://help.hancom.com/hoffice_mac/ko-KR/hwp/index.htm#t=view%2Ftoolbar%2Fshortcut(table).htm)
 
+#### 시장분석
+- 캐릭터 : http://www.kocca.kr/industry/16_industry_c_4_1.pdf
+- 애니메이션 : http://www.kocca.kr/industry/16_industry_a_4_2.pdf
+
 #### 공모전
 - 산그림 공모전 : http://www.picturebook-illust.com/san_kr/community_02_l.asp?boardno=7
+- 보통 20~50매정도의 그림을 그려야함.
+
+#### 동화책
+- 2000천부에 1000만원정도 소요 - 김효정.
 
 ## 온라인 강좌
 - MOOC : http://www.starmooc.kr
