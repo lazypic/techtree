@@ -5,3 +5,4 @@
 - Wework : https://www.wework.com
 - 고양영상미디어센터 : http://www.gymc.or.kr/usr/space/spaceRentalMain.do?smenuNo=2020300
 - 공공시설 대관 : http://www.goyang.go.kr/kr/facilities/place/placeRent.do
+    - 일산동구청 2층 다목적 교육장 - 회의실
