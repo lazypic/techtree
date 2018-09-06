@@ -22,6 +22,7 @@
 #### 시장분석
 - 캐릭터 : http://www.kocca.kr/industry/16_industry_c_4_1.pdf
 - 애니메이션 : http://www.kocca.kr/industry/16_industry_a_4_2.pdf
+- https://brunch.co.kr/@socialmkt/34
 
 #### 공모전
 - 산그림 공모전 : http://www.picturebook-illust.com/san_kr/community_02_l.asp?boardno=7
