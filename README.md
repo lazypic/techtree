@@ -7,6 +7,7 @@
 - 특허검색 : http://kportal.kipris.or.kr/kportal/search/total_search.do
 - 한국표준산업분류 : http://kssc.kostat.go.kr/ksscNew_web/kssc/common/ClassificationContent.do?gubun=1&strCategoryNameCode=001&categoryMenu=007
 - 인터넷등기소(상호체크) : http://www.iros.go.kr
+- 기술보증기금 : http://www.kibo.or.kr
 - 한국 전자공시시스템 : https://dart.fss.or.kr
 - 미국 Securities and Exchange Commission(SEC) : https://www.sec.gov
 
