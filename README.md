@@ -10,6 +10,7 @@
 - 기술보증기금 : http://www.kibo.or.kr
 - 한국 전자공시시스템 : https://dart.fss.or.kr
 - 미국 Securities and Exchange Commission(SEC) : https://www.sec.gov
+- 공공데이터 : https://www.data.go.kr/
 
 #### 지원사업
 - 고양시여성창업지원센터 : http://www.gywbi.or.kr/main.aspx
