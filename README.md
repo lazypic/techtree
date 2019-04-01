@@ -1,5 +1,5 @@
 # techtree
-- 서울시 NPO 지원센터 : http://snpo.kr/index.php
+- 서울시 NPO 지원센터 : http://snpo.kr/index.php / 비영리 스타트업지원 부문
 - 사업자등록신청 : https://www.hometax.go.kr/websquare/websquare.wq?w2xPath=/ui/pp/index_pp.xml&tmIdx=03&tm2lIdx=0306000000&tm3lIdx
 - 고양세무서 : http://j.nts.go.kr/menu/main/main2.asp?tax_code=128
 	- 캐릭터 콘텐츠개발, 소프트웨어개발 업종 상담받을 것.
