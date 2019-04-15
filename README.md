@@ -1,4 +1,5 @@
 # techtree
+- 벤처비트 : https://venturebeat.com
 - 서울시 NPO 지원센터 : http://snpo.kr/index.php / 비영리 스타트업지원 부문
     - http://www.seoulnpocenter.kr/archive/project14/intro.html
 - 사업자등록신청 : https://www.hometax.go.kr/websquare/websquare.wq?w2xPath=/ui/pp/index_pp.xml&tmIdx=03&tm2lIdx=0306000000&tm3lIdx
