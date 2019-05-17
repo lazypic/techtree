@@ -55,6 +55,7 @@ $ wc test.txt
 
 ## 공유오피스
 - alliv : https://alliv.co.kr/workspace
+- Workflex(롯데타워) : https://www.workflexpremium.com/main/main.do
 
 ## Welcome Kit
 - 신시어리 : https://sincerely.one / 최소수량 100개
