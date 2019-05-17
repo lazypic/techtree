@@ -54,8 +54,9 @@ $ wc test.txt
 - https://www.meetup.com/ko-KR/
 
 ## 공유오피스
-- alliv : https://alliv.co.kr/workspace
+- Alliv : https://alliv.co.kr/workspace
 - Workflex(롯데타워) : https://www.workflexpremium.com/main/main.do
+- Fastfive(홍대) : https://www.fastfive.co.kr/hongdae/
 
 ## Welcome Kit
 - 신시어리 : https://sincerely.one / 최소수량 100개
