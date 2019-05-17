@@ -57,7 +57,7 @@ $ wc test.txt
 - alliv : https://alliv.co.kr/workspace
 
 ## Welcome Kit
-- 신시어리 : https://sincerely.one
+- 신시어리 : https://sincerely.one / 최소수량 100개
 
 ## 콘텐츠 퍼블리쉬 API
 
