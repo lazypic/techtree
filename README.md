@@ -53,6 +53,12 @@ $ wc test.txt
 ## 온라인 모임
 - https://www.meetup.com/ko-KR/
 
+## 공유오피스
+- alliv : https://alliv.co.kr/workspace
+
+## Welcome Kit
+- 신시어리 : https://sincerely.one
+
 ## 콘텐츠 퍼블리쉬 API
 
 #### instagram
@@ -74,28 +80,8 @@ $ wc test.txt
 - https://developers.google.com
 - https://developers.google.com/apis-explorer/#p/
 
-#### google+
-
-#### google blog
-
 #### kakao
 - https://developers.kakao.com
  
-#### kakao plus friend
-
-#### naver blog
-
-#### brunch
-- 아직 API 없음.
-
-#### facebook
-- https://developers.facebook.com/?locale=ko_KR
-
-#### youtube
-- https://developers.google.com/youtube/v3/getting-started?hl=ko
-
-#### vimeo
-- https://developer.vimeo.com
-
 #### mailgun
 - https://documentation.mailgun.com/en/latest/quickstart-sending.html#how-to-start-sending-email
