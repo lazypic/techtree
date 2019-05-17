@@ -54,7 +54,7 @@ $ wc test.txt
 - https://www.meetup.com/ko-KR/
 
 ## 공유오피스
-- Alliv : https://alliv.co.kr/workspace
+- Alliv : https://alliv.co.kr/workspace / 월 17만원 / 인테리어 좋음.
 - Workflex(롯데타워) : https://www.workflexpremium.com/main/main.do
 - Fastfive(홍대) : https://www.fastfive.co.kr/hongdae/
 
