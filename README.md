@@ -14,6 +14,7 @@
 - 한국 전자공시시스템 : https://dart.fss.or.kr
 - 미국 Securities and Exchange Commission(SEC) : https://www.sec.gov
 - 공공데이터 : https://www.data.go.kr/
+- 상표권등록: https://markinfo.co.kr/front/mobile/c1100_r.php?act=search&trademark_name=lazypic
 
 #### 지원사업
 - 고양시여성창업지원센터 : http://www.gywbi.or.kr/main.aspx
