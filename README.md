@@ -35,6 +35,10 @@
 $ wc test.txt
 ```
 
+#### 주식
+- 주식세율: https://www.nts.go.kr/tax/tax07_popup/sub02_1_4.html
+- 과점주주에 대한 설명, 우호지분을 가진 주주를 만드는 원리: http://thel.mt.co.kr/newsView.html?no=2017031616158294521
+
 #### 시장분석
 - 캐릭터 : http://www.kocca.kr/industry/16_industry_c_4_1.pdf
 - 애니메이션 : http://www.kocca.kr/industry/16_industry_a_4_2.pdf
