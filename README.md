@@ -37,8 +37,10 @@ $ wc test.txt
 ```
 
 #### 주식
+- [x] 인감증명서 발급시 알람신청하기
+- [x] 인감증명서에 사용처 작성하기
 - 주식세율: https://www.nts.go.kr/tax/tax07_popup/sub02_1_4.html
-- 과점주주에 대한 설명, 우호지분을 가진 주주를 만드는 원리: http://thel.mt.co.kr/newsView.html?no=2017031616158294521
+- 과점주주에 대한 설명, 우호지분 만들기: http://thel.mt.co.kr/newsView.html?no=2017031616158294521
 
 #### 시장분석
 - 캐릭터 : http://www.kocca.kr/industry/16_industry_c_4_1.pdf
