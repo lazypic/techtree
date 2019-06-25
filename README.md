@@ -36,7 +36,7 @@
 $ wc test.txt
 ```
 
-#### 주식
+#### 주식양수도
 - [x] 인감증명서 발급시 알람신청하기
 - [x] 인감증명서에 사용처 작성하기
 - 주식세율: https://www.nts.go.kr/tax/tax07_popup/sub02_1_4.html
