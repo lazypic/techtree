@@ -26,6 +26,9 @@
 - SBA 콘텐츠지원포털 : http://m.ani.seoul.kr/index.sba
 - [한글 단축키](http://help.hancom.com/hoffice_mac/ko-KR/hwp/index.htm#t=view%2Ftoolbar%2Fshortcut(table).htm)
 
+#### 정부리눅스전환
+- 구름OS, 우분투, 하모니카 고려중
+
 #### 챠트생성
 - https://www.draw.io
 
