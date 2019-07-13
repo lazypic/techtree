@@ -26,8 +26,10 @@
 - SBA 콘텐츠지원포털 : http://m.ani.seoul.kr/index.sba
 - [한글 단축키](http://help.hancom.com/hoffice_mac/ko-KR/hwp/index.htm#t=view%2Ftoolbar%2Fshortcut(table).htm)
 
-#### 정부리눅스전환
-- 구름OS, 우분투, 하모니카 고려중
+#### 리눅스정보
+- 정부: 구름OS(데비안기반), 우분투(데비안기반), 하모니카(데비안기반-민트(우분투기반)) 고려중
+- AWS(데비안기반)
+- Epic 언리얼: 우분투(데비안)
 
 #### 챠트생성
 - https://www.draw.io
