@@ -54,6 +54,7 @@
 #### 번역
 - 용역단가표 : https://translated.com/%EC%9D%98%EB%A3%8C-%EB%B2%88%EC%97%AD#quote-code=55106927ba
 - 단어수 세기(2번째 숫자)
+- 논문검색(PMID, DOI): https://sci-hub.tw
 ```bash
 $ wc test.txt
 ```
