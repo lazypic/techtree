@@ -51,13 +51,13 @@
 #### 챠트생성
 - https://www.draw.io
 
-#### 번역
+#### 시장가격
 - 용역단가표 : https://translated.com/%EC%9D%98%EB%A3%8C-%EB%B2%88%EC%97%AD#quote-code=55106927ba
-- 단어수 세기(2번째 숫자)
+
+#### 번역
+- 단어수 세기(2번째 숫자): `$ wc test.txt`
 - 논문검색(PMID, DOI): https://sci-hub.tw
-```bash
-$ wc test.txt
-```
+- 논문번역: http://www.notii.co.kr
 
 #### 주식양수도
 - [x] 인감증명서 발급시 알람신청하기
