@@ -1,4 +1,6 @@
 # Techtree
+
+### 설립 및 출원단
 - 법인설립지원센터: https://k-startbiz.org
 - 인터넷등기소: http://www.iros.go.kr
 - 상표출원: https://markinfo.co.kr
@@ -53,31 +55,29 @@
 #### 챠트생성
 - https://www.draw.io
 
-#### 시장가격
-- 용역단가표 : https://translated.com/%EC%9D%98%EB%A3%8C-%EB%B2%88%EC%97%AD#quote-code=55106927ba
-
-#### 번역
+### 번역
 - 단어수 세기(2번째 숫자): `$ wc test.txt`
 - 논문검색(PMID, DOI): https://sci-hub.tw
 - 논문번역: http://www.notii.co.kr
+- 용역단가표 : https://translated.com/%EC%9D%98%EB%A3%8C-%EB%B2%88%EC%97%AD#quote-code=55106927ba
 
-#### 주식양수도
+### 주식양수도
 - [x] 인감증명서 발급시 알람신청하기
 - [x] 인감증명서에 사용처 작성하기
 - 주식세율: https://www.nts.go.kr/tax/tax07_popup/sub02_1_4.html
 - 과점주주에 대한 설명, 우호지분 만들기: http://thel.mt.co.kr/newsView.html?no=2017031616158294521
 - 법인지분소유: https://blog.help-me.kr/2018/08/법인지분/
 
-#### 시장분석
+### 시장분석
 - 캐릭터 : http://www.kocca.kr/industry/16_industry_c_4_1.pdf
 - 애니메이션 : http://www.kocca.kr/industry/16_industry_a_4_2.pdf
 - https://brunch.co.kr/@socialmkt/34
 
-#### 공모전
+### 공모전
 - 산그림 공모전 : http://www.picturebook-illust.com/san_kr/community_02_l.asp?boardno=7
 - 보통 20~50매정도의 그림을 그려야함.
 
-#### 동화책
+### 동화책
 - 2000천부에 1000만원정도 소요 - 김효정.
 
 ## 온라인 강좌
@@ -92,32 +92,29 @@
 - Workflex(롯데타워) : https://www.workflexpremium.com/main/main.do
 - Fastfive(홍대) : https://www.fastfive.co.kr/hongdae/
 
-## Welcome Kit
+### Welcome Kit
 - 신시어리 : https://sincerely.one / 최소수량 100개
 
-## 콘텐츠 퍼블리쉬 API
+### 콘텐츠 퍼블리쉬 API
 
-#### instagram
+### instagram
 - https://www.instagram.com/developer/
 
-#### flickr
+### flickr
 - 비상업적으로만 이용가능
 - https://www.flickr.com/services/api/
 - https://github.com/mncaudill/go-flickr
 
-#### pinterest
+### pinterest
 - 중국에서 서비스안됨.
 - https://developers.pinterest.com/docs/getting-started/introduction/
 
-#### twitter
+### twitter
 - https://developer.twitter.com/en/docs.html
 
-#### google
+### google
 - https://developers.google.com
 - https://developers.google.com/apis-explorer/#p/
 
-#### kakao
+### kakao
 - https://developers.kakao.com
- 
-#### mailgun
-- https://documentation.mailgun.com/en/latest/quickstart-sending.html#how-to-start-sending-email
