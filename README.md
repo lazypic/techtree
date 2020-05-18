@@ -21,8 +21,7 @@
 - 상표권등록: https://markinfo.co.kr/front/mobile/c1100_r.php?act=search&trademark_name=lazypic
 
 #### 캐릭터 등록
-- 캐릭터 저작권등록 : https://www.cros.or.kr/main.cc
-- Windows7에서 진행하니 스트레스 받지 않았다.
+- 한국저작권협회 : https://www.cros.or.kr
 - 등록비용 1건: 23,600원
 
 #### 지원사업
