@@ -1,6 +1,6 @@
 # Techtree
 
-### 설립 및 출원단
+### 설립 및 출원단계
 - 법인설립지원센터: https://k-startbiz.org
 - 인터넷등기소: http://www.iros.go.kr
 - 상표출원: https://markinfo.co.kr
